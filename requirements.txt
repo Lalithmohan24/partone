@@ -1,0 +1,7 @@
+django
+djangorestframework
+python-decouple
+opencv-python
+numpy
+cv2
+pylint
